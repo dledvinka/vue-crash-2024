@@ -1,3 +1,7 @@
+Progress: https://youtu.be/VeNfHj6MhgA?si=HSbDw46qpHzgXpBk&t=5607
+1h 33min
+
+
 # vue-crash-2024
 
 This template should help get you started developing with Vue 3 in Vite.
